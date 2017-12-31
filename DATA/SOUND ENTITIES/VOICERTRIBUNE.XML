@@ -1,0 +1,9 @@
+<entity description="RTribune Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/RTribune/1.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/RTribune/2.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/RTribune/3.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/RTribune/4.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/RTribune/5.wav" frequency="20"/>
+   </files>
+</entity>

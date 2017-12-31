@@ -1,0 +1,51 @@
+<class id="BaseRuins" cpp_class="CVXBuilding" parent="Building" entity="" entity_winter="">
+
+	<properties
+		is_central_building="1"
+		can_be_captured="0"
+		can_be_attacked="0"
+		produces_gold="0"
+		produces_food="0"
+		is_single_building="1"
+		settlement_food="0"
+		settlement_gold="0"
+		settlement_maxfood="0"
+		settlement_maxgold="0"
+		population="0"
+		efficiency="0"
+		max_population="0"
+		max_units="1"
+		settlement_icon_name=""
+	/>
+
+	<behavior script="data/subai/ruin_behavior.vs"/>
+	<properties interface="thumb,building,items"/>
+	<properties itemmanage="0"/>
+	<properties minlevel="4"/>
+	<properties levelperitem="4"/>
+
+	<properties itemtype="Elephant Tusk"/>
+	<properties itemtype="Boar teeth"/>
+	<properties itemtype="Horn of victory"/>
+	<properties itemtype="Ash of druid heart"/>
+	<properties itemtype="Finger of death"/>
+	<properties itemtype="Fur gloves of health"/>
+	<properties itemtype="Concentration stone"/>
+	<properties itemtype="Amulet of Triumph"/>
+	<properties itemtype="Golden Ankh"/>
+	<properties itemtype="Scroll of Death"/>
+	<properties itemtype="Gem of Wisdom"/>
+	<properties itemtype="Ring of Power"/>
+
+	<properties icon="gameres/icons/Oracul.bmp"/>
+	<properties description="Allows heroes of the specified level to enter and obtain the item inside. Upon exiting the hero is at 10% of his full health"/>
+
+	<value0
+		icon="gameres/infobar/common/level ico.bmp"
+		script="return EnvReadInt(.AsBuilding, 'minlevel');"
+		help="/contents/stats/level"
+		rollover = "Hero level"/>
+	<properties inventory_size="1"/>
+	<properties help="/contents/buildings/Ruins"/>
+
+</class>

@@ -1,0 +1,10 @@
+<entity description="IEnchantress Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/IEnchantress/Are you sure.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IEnchantress/Gracing your presence.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IEnchantress/Typical, typical, typical.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IEnchantress/Did you think of that.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IEnchantress/I knew you'd order that.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IEnchantress/What I would have done.wav" frequency="20"/>
+   </files>
+</entity>

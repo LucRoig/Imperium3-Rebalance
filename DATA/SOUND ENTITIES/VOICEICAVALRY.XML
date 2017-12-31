@@ -1,0 +1,9 @@
+<entity description="ICavalry Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/ICavalry/Charge!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/ICavalry/Like grease lightning!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/ICavalry/Without delay.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/ICavalry/Flying through the air.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/ICavalry/Right away!.wav" frequency="20"/>
+   </files>
+</entity>

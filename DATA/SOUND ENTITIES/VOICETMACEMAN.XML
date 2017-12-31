@@ -1,0 +1,9 @@
+<entity description="TMaceman Voice" priority="UnitOrder" type="UnitOrder">
+	<files>
+		<sound file="CurrentLang/voices/TMaceman/1.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/TMaceman/2.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/TMaceman/3.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/TMaceman/4.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/TMaceman/5.wav" frequency="20"/>
+	</files>
+</entity>

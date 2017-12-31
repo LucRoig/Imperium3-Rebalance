@@ -1,0 +1,9 @@
+<entity description="IDefender Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/IDefender/Armored and ready.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IDefender/I could do better!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IDefender/Point and watch!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IDefender/For the good of my people!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IDefender/No task is too difficult.wav" frequency="20"/>
+   </files>
+</entity>

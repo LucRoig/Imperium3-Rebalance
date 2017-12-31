@@ -1,0 +1,9 @@
+<entity description="GDruid Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/GDruid/I know the time of my death.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/GDruid/Learn the ways of life.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/GDruid/Let me know.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/GDruid/Serve the people.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/GDruid/Understand nature.wav" frequency="20"/>
+   </files>
+</entity>

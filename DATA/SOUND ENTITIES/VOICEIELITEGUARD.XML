@@ -1,0 +1,9 @@
+<entity description="IEliteGuard Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/IEliteGuard/Die by my hand.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IEliteGuard/Guarding the area!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IEliteGuard/That's more like it!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IEliteGuard/Give me something to chop!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IEliteGuard/I'll take care of it.wav" frequency="20"/>
+   </files>
+</entity>

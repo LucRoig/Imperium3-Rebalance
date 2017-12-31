@@ -1,0 +1,9 @@
+<entity description="RRepublicanHero Voice" priority="UnitOrder" type="UnitOrder">
+	<files>
+		<sound file="CurrentLang/voices/RRepublicanHero/Divide and rule.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/RRepublicanHero/Follow my orders.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/RRepublicanHero/For the glory of rome.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/RRepublicanHero/Knowledge is power.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/RRepublicanHero/Trained soldiers are better.wav" frequency="20"/>
+	</files>
+</entity>

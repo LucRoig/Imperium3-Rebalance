@@ -1,0 +1,9 @@
+<entity description="EHorusWarrior Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/EHorusWarrior/1.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/EHorusWarrior/2.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/EHorusWarrior/3.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/EHorusWarrior/4.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/EHorusWarrior/5.wav" frequency="20"/>
+   </files>
+</entity>

@@ -1,0 +1,9 @@
+<entity description="CShaman Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/CShaman/A curse upon all!!!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CShaman/Can't I return to Carthage.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CShaman/Why do you send me there.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CShaman/Am I surrounded by idiots.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CShaman/There shall be sacrifices!.wav" frequency="20"/>
+   </files>
+</entity>

@@ -1,0 +1,7 @@
+<entity description="BMaleVillager Voice" priority="UnitOrder" type="UnitOrder">
+	<files>
+		<sound file="CurrentLang/voices/BMaleVillager/1.wav" frequency="33"/>
+		<sound file="CurrentLang/voices/BMaleVillager/2.wav" frequency="33"/>
+		<sound file="CurrentLang/voices/BMaleVillager/3.wav" frequency="33"/>
+	</files>
+</entity>

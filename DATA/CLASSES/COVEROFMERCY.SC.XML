@@ -1,0 +1,9 @@
+<class id="CoverOfMercy" cpp_class="CVXAreaEffect" parent="SummoningObj" entity="Visuals/fogs/com.ent.xml">
+
+	<properties radius="1000"/>
+	<properties range= "200"/>
+	<properties stamina_dec_time = "2000"/>
+
+	<method sig="idle" vs="data/subai/coverofmercy_idle.vs"/>
+
+</class>

@@ -1,0 +1,9 @@
+<entity description="IMIlitiaman Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/IMIlitiaman/Do I have a choice.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IMIlitiaman/If I must.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IMIlitiaman/Yes, sir!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IMIlitiaman/I hate being drafted.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/IMIlitiaman/Not again.wav" frequency="20"/>
+   </files>
+</entity>

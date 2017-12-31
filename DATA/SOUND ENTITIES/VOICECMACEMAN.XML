@@ -1,0 +1,9 @@
+<entity description="CMaceman Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/CMaceman/Behold my mace!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CMaceman/Easily done.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CMaceman/You're the boss.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CMaceman/Clash and bash!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CMaceman/Where do you want me.wav" frequency="20"/>
+   </files>
+</entity>

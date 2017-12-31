@@ -1,0 +1,10 @@
+<entity description="Ghost Die" priority="UnitFight" type="UnitFight">
+   <files>
+      <sound file="Sounds/death/Ghoul_Die/Ghoul_Die_1.wav" frequency="20"/>
+      <sound file="Sounds/death/Ghoul_Die/Ghoul_Die_2.wav" frequency="20"/>
+      <sound file="Sounds/death/Ghoul_Die/Ghoul_Die_3.wav" frequency="20"/>
+      <sound file="Sounds/death/Ghoul_Die/Ghoul_Die_4.wav" frequency="20"/>
+      <sound file="Sounds/death/Ghoul_Die/Ghoul_Die_5.wav" frequency="20"/>
+     
+   </files>
+</entity>

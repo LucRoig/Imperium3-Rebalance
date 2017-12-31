@@ -1,0 +1,7 @@
+<entity description="GFemaleVillager Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/GFemaleVillager/ok1.wav" frequency="33"/>
+      <sound file="CurrentLang/voices/GFemaleVillager/ok2.wav" frequency="33"/>
+      <sound file="CurrentLang/voices/GFemaleVillager/uhum.wav" frequency="33"/>
+   </files>
+</entity>

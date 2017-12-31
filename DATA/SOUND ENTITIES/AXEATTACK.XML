@@ -1,0 +1,13 @@
+<entity description="Axe Attack" priority="UnitFight" type="UnitFight">
+   <files>
+      <sound file="Sounds/fight/Axe_attack/Axe_attack_1.wav" frequency="16"/>
+      <sound file="Sounds/fight/Axe_attack/Axe_attack_2.wav" frequency="16"/>
+      <sound file="Sounds/fight/Axe_attack/Axe_attack_3.wav" frequency="16"/>
+      <sound file="Sounds/fight/Axe_attack/Axe_attack_4.wav" frequency="16"/>
+      <sound file="Sounds/fight/Axe_attack/Axe_attack_5.wav" frequency="16"/>
+      <sound file="Sounds/fight/Axe_attack/Axe_attack_6.wav" frequency="16"/>
+      
+      
+      
+   </files>
+</entity>

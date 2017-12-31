@@ -1,0 +1,26 @@
+<commands>
+
+<!-- SHIP COMMANDS -->
+
+<cmd name="boardunit" priority="0"
+	cursor="do_something">
+
+	<src  obj="ShipBattle"/>
+	<nsrc obj="Unit"/>
+	<nsrc obj="GGhost"/>
+	<nsrc obj="ShipS"/>
+	<nsrc obj="Hero"/>
+</cmd>
+
+<cmd name="unboardall" priority="0"
+	button="actions/Unl Ship.bmp"
+	key="u"
+	rollover="Land forces here">
+	<src obj="ShipBattle"/>
+	<nsrc obj="Unit"/>
+	<nsrc obj="GGhost"/>
+	<nsrc obj="ShipS"/>
+	<nsrc obj="Hero"/>
+</cmd>
+
+</commands>

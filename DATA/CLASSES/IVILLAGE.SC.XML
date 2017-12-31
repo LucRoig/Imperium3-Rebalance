@@ -1,0 +1,11 @@
+<class id="IVillage" altid="Village" cpp_class="CVXTownHall" parent="BaseVillage"
+	entity="Buildings/IStorage/IStorage.ent.xml"
+>
+	<properties race="Iberia"/>
+	<properties foodperpop="45"/>
+	<properties icon="gameres/icons/IStorage.bmp"/>
+	<properties edittree_pos="Structures/Village (Iberia)/Village hall"/>
+	<properties help="/contents/buildings/Village"/>
+
+	
+</class>

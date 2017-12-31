@@ -1,0 +1,5 @@
+<entity description="Crow death" priority="UnitFight" type="UnitFight">
+   <files>
+      <sound file="Sounds/animals/crow/crow_death.wav" frequency="100"/>
+   </files>
+</entity>

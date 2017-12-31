@@ -1,0 +1,9 @@
+<entity description="Temple Select" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="Sounds/selection/Temple/Temple_1.wav" frequency="25"/>
+      <sound file="Sounds/selection/Temple/Temple_2.wav" frequency="25"/>
+      <sound file="Sounds/selection/Temple/Temple_3.wav" frequency="25"/>
+      <sound file="Sounds/selection/Temple/Temple_4.wav" frequency="25"/>
+      
+   </files>
+</entity>

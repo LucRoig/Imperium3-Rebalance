@@ -1,0 +1,9 @@
+<entity description="GTridentWarrior Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/GTridentWarrior/1.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/GTridentWarrior/2.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/GTridentWarrior/3.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/GTridentWarrior/4.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/GTridentWarrior/5.wav" frequency="20"/>
+   </files>
+</entity>

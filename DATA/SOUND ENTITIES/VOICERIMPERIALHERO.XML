@@ -1,0 +1,9 @@
+<entity description="RImperialHero Voice" priority="UnitOrder" type="UnitOrder">
+	<files>
+		<sound file="CurrentLang/voices/RImperialHero/1.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/RImperialHero/2.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/RImperialHero/3.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/RImperialHero/4.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/RImperialHero/5.wav" frequency="20"/>
+	</files>
+</entity>

@@ -1,0 +1,7 @@
+<entity description="Taran Walk" priority="UnitWalk" type="UnitWalk">
+   <files>
+      <sound file="Sounds/Walk/Taran_walk/Taran_walk_1.wav" frequency="33"/>
+      <sound file="Sounds/Walk/Taran_walk/Taran_walk_2.wav" frequency="33"/>
+      <sound file="Sounds/Walk/Taran_walk/Taran_walk_3.wav" frequency="33"/>
+   </files>
+</entity>
