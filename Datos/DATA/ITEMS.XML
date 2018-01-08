@@ -66,7 +66,7 @@
 	      sound="data/sound entities/ItemUse.xml"
 	      level="0"
 	      name="Eagle feather"
-	      description="Adds 400 max health"
+	      description="Añade 400 puntos a la salud máxima."
 	      important="yes">
 	  <bonus health="400" damage="0" armor_slash="0" armor_pierce="0" level="0" experience="0"/>
 	</item>
@@ -190,7 +190,7 @@
 	      level="0"
 	      usecount="0"
 	      name="Fur gloves of health"
-	      description="Adds 600 health. When used heals one ally taking health from the bearer"
+	      description="Añade 600 puntos a la salud máxima. Al usarse, cura a una unidad aliada cercana cogiendo vida del portador."
 	      use_script="file://data/ItemScripts/fur gloves of health.vs"
 	      important="yes">
 	  <bonus health="600" damage="0" armor_slash="0" armor_pierce="0" level="0" experience="0"/>
@@ -201,7 +201,7 @@
 	      sound="data/sound entities/ItemUse.xml"
 	      level="0"
 	      name="Concentration stone"
-	      description="Adds 30 to damage. When used heals the bearer taking the health of an ally"
+	      description="Añade 30 puntos al ataque. Al usarse, cura al portador cogiendo vida de una unidad aliada cercana."
 	      usecount="0"
 	      object_script="file://data/ItemScripts/concentration stone.vs"
 	      important="yes">
@@ -430,7 +430,7 @@
 	      sound="data/sound entities/ItemUse.xml"
 	      level="0"
 	      name="Golden Ankh"
-	      description="Increases the bearer's armor by 8 and his health by 300"
+	      description="Añade 8 puntos a la defensa y 300 puntos a la salud máxima."
 	      important="yes"
 	      cursed="0">
 	  <bonus health="300" armor_slash="8" armor_pierce="8"/>

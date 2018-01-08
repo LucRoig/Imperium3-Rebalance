@@ -1,8 +1,8 @@
 <class id="RScout" altid="RHorseman" cpp_class="CVXUnit" parent="Horse" entity="Units/RScout/RScout.ent.xml">
 
 	<properties race="RepublicanRome"/>
-	<properties maxhealth="240"/>
-	<properties damage="24" armor_slash="12" armor_pierce="12"/>
+	<properties maxhealth="280"/>
+	<properties damage="24" armor_slash="14" armor_pierce="14"/>
 	<properties speed="200"/>
 	<properties unit_specials="Toughness, Keen sight"/>
 	<properties healthbar_type="3"/>
