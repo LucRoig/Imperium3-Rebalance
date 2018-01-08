@@ -1,9 +1,0 @@
-<entity description="ISlinger Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/ISlinger/Best eye in the land.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/ISlinger/Could easily hit that.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/ISlinger/Victory is in the bag.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/ISlinger/Bull's-eye!.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/ISlinger/Two birds with one stone.wav" frequency="20"/>
-   </files>
-</entity>

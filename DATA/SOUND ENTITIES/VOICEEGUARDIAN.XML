@@ -1,9 +1,0 @@
-<entity description="EGuardian Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/EGuardian/1.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/EGuardian/2.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/EGuardian/3.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/EGuardian/4.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/EGuardian/5.wav" frequency="20"/>
-   </files>
-</entity>

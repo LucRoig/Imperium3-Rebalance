@@ -1,5 +1,0 @@
-<entity description="Item Use Water Aura" priority="UI" type="UI">
-   <files>
-      <sound file="Sounds/effects/ItemUse/WaterAura.wav" frequency="100"/>
-   </files>
-</entity>

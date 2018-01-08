@@ -1,9 +1,0 @@
-<entity description="RLiberatus Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/RLiberatus/An eye for an eye.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/RLiberatus/Don't order me.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/RLiberatus/For Mars.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/RLiberatus/I smell blood.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/RLiberatus/I'm no slave.wav" frequency="20"/>
-   </files>
-</entity>

@@ -1,9 +1,0 @@
-<entity description="IHero Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/IHero/Bringing you victory.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/IHero/That is the way.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/IHero/Will see to it.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/IHero/Making it happen.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/IHero/The only way to fight.wav" frequency="20"/>
-   </files>
-</entity>

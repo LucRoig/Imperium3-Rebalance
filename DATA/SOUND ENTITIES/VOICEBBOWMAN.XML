@@ -1,9 +1,0 @@
-<entity description="BBowman Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/BBowman/1.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BBowman/2.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BBowman/3.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BBowman/4.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BBowman/5.wav" frequency="20"/>
-   </files>
-</entity>

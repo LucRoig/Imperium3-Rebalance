@@ -1,5 +1,0 @@
-<entity description="GuleExplosion" priority="Event" type="UnitOrder">
-	<files>
-		<sound file="Sounds/effects/gule_explosion.wav" frequency="100"/>
-	</files>
-</entity>

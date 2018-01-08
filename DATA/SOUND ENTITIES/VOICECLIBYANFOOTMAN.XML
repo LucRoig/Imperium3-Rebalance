@@ -1,9 +1,0 @@
-<entity description="CLibyanFootman Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/CLibyanFootman/Doing my job.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CLibyanFootman/If that's what you want.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CLibyanFootman/Naam, saidi.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CLibyanFootman/Earning my pay.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CLibyanFootman/Like a serpent through the desert.wav" frequency="20"/>
-   </files>
-</entity>

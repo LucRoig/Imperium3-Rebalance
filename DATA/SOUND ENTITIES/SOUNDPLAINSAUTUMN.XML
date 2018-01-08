@@ -1,5 +1,0 @@
-<entity description="SoundPlainsautumn">
-	<files>
-		<sound file="Sounds/ambient/wind2.ogg" frequency="7"/>
-	</files>
-</entity>

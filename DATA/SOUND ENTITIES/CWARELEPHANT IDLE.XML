@@ -1,6 +1,0 @@
-<entity description="Elephant idle" priority="UnitIdle" type="UnitIdle">
-   <files>
-      <sound file="Sounds/animals/Elephant/Elephant_idle_1.wav" frequency="40"/>
-      <sound file="Sounds/animals/Elephant/Elephant_idle_2.wav" frequency="40"/>
-   </files>
-</entity>

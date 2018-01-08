@@ -1,9 +1,0 @@
-<entity description="BHero Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/BHero/1.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BHero/2.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BHero/3.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BHero/4.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BHero/5.wav" frequency="20"/>
-   </files>
-</entity>

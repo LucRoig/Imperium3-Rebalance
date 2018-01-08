@@ -1,5 +1,0 @@
-<entity description="Crow command" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="Sounds/animals/crow/crow_command.wav" frequency="100"/>
-   </files>
-</entity>

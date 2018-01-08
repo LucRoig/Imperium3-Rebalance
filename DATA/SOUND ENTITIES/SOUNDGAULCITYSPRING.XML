@@ -1,5 +1,0 @@
-<entity description="SoundGaulCityspring">
-	<files>
-		<sound file="Sounds/ambient/try/boar.ogg" frequency="100"/>
-	</files>
-</entity>

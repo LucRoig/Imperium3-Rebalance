@@ -1,7 +1,0 @@
-<entity description="GMaleVillager Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/GMaleVillager/aha1.wav" frequency="33"/>
-      <sound file="CurrentLang/voices/GMaleVillager/aha2.wav" frequency="33"/>
-      <sound file="CurrentLang/voices/GMaleVillager/ok.wav" frequency="33"/>
-   </files>
-</entity>

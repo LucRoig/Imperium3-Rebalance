@@ -1,5 +1,0 @@
-<entity description="MilitaryTraining" priority="UI" type="UI">
-   <files>
-      <sound file="sounds/notifications/military traininig.wav" frequency="100"/>
-   </files>
-</entity>

@@ -1,6 +1,0 @@
-<class id="RWVillagerAmbient" cpp_class="CVXUnit" parent="PeasantAmbient" entity="Units/RWVillager/RWVillager.ent.xml">
-
-	<properties race="RepublicanRome"/>
-	<properties icon="gameres/icons/RWoman.bmp"/>
-
-</class>

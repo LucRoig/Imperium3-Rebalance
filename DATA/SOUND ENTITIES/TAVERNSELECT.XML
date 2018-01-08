@@ -1,8 +1,0 @@
-<entity description="Tavern Select" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="Sounds/selection/Tavern/Tavern_1.wav" frequency="25"/>
-      <sound file="Sounds/selection/Tavern/Tavern_2.wav" frequency="25"/>
-      <sound file="Sounds/selection/Tavern/Tavern_3.wav" frequency="25"/>
-      <sound file="Sounds/selection/Tavern/Tavern_4.wav" frequency="25"/>
-   </files>
-</entity>

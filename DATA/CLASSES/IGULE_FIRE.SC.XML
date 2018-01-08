@@ -1,4 +1,0 @@
-<class id="IGule_fire" cpp_class="CVXFeedback" parent="Object"
-entity="Visuals/Gule/Gule_fire.ent.xml">
-	<properties desync_hash="0"/>
-</class>

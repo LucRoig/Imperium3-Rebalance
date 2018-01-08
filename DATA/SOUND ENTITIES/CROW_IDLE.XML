@@ -1,7 +1,0 @@
-<entity description="Crow idle" priority="UnitIdle" type="UnitIdle">
-   <files>
-      <sound file="Sounds/animals/crow/crow_idle1.wav" frequency="20"/>
-      <sound file="Sounds/animals/crow/crow_idle2.wav" frequency="20"/>
-      <sound file="Sounds/animals/crow/crow_idle3.wav" frequency="20"/>
-   </files>
-</entity>

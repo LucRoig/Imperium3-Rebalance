@@ -1,9 +1,0 @@
-<entity description="TTeutonArcher Voice" priority="UnitOrder" type="UnitOrder">
-	<files>
-		<sound file="CurrentLang/voices/TTeutonArcher/Faster, Faster.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TTeutonArcher/Horseback shooting is my skill.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TTeutonArcher/I fight best from afar.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TTeutonArcher/I have nothing to loose.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TTeutonArcher/Raze and plunder.wav" frequency="20"/>
-	</files>
-</entity>

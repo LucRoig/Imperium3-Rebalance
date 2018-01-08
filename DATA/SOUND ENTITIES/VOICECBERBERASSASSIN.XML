@@ -1,9 +1,0 @@
-<entity description="CBerberAssasin Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/CBerberAssassin/Blood runs in my footsteps.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CBerberAssassin/Hack and slash!.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CBerberAssassin/I'm getting maaad!.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CBerberAssassin/Grrrrrrr!.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CBerberAssassin/I'll do that for free.wav" frequency="20"/>
-   </files>
-</entity>

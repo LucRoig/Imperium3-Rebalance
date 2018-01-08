@@ -1,9 +1,0 @@
-<entity description="BVikingLord Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/BVikingLord/I heal in battle.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BVikingLord/In the name of Odin.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BVikingLord/Lord of the Vikings.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BVikingLord/My home is Valhalla.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BVikingLord/Trust my hammer.wav" frequency="20"/>
-   </files>
-</entity>

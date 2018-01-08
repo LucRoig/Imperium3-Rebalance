@@ -1,3 +1,0 @@
-<class id="plet" cpp_class="CVXDecor" parent="Object" entity="Buildings/village/plet/plet.ent.xml">
-	<properties radius="0" selection_radius="0"/>
-</class>

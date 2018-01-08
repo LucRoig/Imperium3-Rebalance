@@ -1,9 +1,0 @@
-<entity description="CWarElephant Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/CWarElephant/Come on, stupid elephant!.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CWarElephant/Go! Go! Go!.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CWarElephant/Truuu. Truuuuu.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CWarElephant/Faster, faster!.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/CWarElephant/No, no, nooooo!.wav" frequency="20"/>
-   </files>
-</entity>

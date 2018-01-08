@@ -1,9 +1,0 @@
-<entity description="GFemaleHero Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/GFemaleHero/Follow my lead.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/GFemaleHero/I know these lands.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/GFemaleHero/I lead armies.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/GFemaleHero/I need more men.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/GFemaleHero/True leaders are rare.wav" frequency="20"/>
-   </files>
-</entity>

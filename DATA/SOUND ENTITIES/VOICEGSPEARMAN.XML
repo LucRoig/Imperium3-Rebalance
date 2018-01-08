@@ -1,9 +1,0 @@
-<entity description="GSpearman Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/GSpearman/A spear will never fail you.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/GSpearman/Again.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/GSpearman/As you command.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/GSpearman/Let's not haste.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/GSpearman/You better be right.wav" frequency="20"/>
-   </files>
-</entity>

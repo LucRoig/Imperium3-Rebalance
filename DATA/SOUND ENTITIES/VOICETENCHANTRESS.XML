@@ -1,9 +1,0 @@
-<entity description="TEnchantress Voice" priority="UnitOrder" type="UnitOrder">
-	<files>
-		<sound file="CurrentLang/voices/TEnchantress/1.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TEnchantress/2.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TEnchantress/3.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TEnchantress/4.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TEnchantress/5.wav" frequency="20"/>
-	</files>
-</entity>

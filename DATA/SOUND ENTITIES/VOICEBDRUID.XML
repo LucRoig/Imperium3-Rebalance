@@ -1,9 +1,0 @@
-<entity description="BDruid Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/BDruid/1.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BDruid/2.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BDruid/3.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BDruid/4.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BDruid/5.wav" frequency="20"/>
-   </files>
-</entity>

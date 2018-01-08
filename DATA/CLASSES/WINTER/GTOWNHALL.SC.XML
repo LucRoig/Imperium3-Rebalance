@@ -1,8 +1,0 @@
-<class
-	cpp_class = "CVXTownHall"
-	entity = "Buildings/Townhall/Townhall_w.ent.xml"
-	id = "GTownhallWinter"
-	parent = "GTownhall"
->
-	<properties edittree_pos = "Structures/Stronghold (Gaul)/Winter/Townhall"/>
-</class>

@@ -1,5 +1,0 @@
-<entity description="Item Use Beatand Bells" priority="UI" type="UI">
-   <files>
-      <sound file="Sounds/effects/ItemUse/BeatandBells.wav" frequency="100"/>
-   </files>
-</entity>

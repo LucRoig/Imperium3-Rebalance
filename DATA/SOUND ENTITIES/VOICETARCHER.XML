@@ -1,9 +1,0 @@
-<entity description="TArcher Voice" priority="UnitOrder" type="UnitOrder">
-	<files>
-		<sound file="CurrentLang/voices/TArcher/1.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TArcher/2.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TArcher/3.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TArcher/4.wav" frequency="20"/>
-		<sound file="CurrentLang/voices/TArcher/5.wav" frequency="20"/>
-	</files>
-</entity>

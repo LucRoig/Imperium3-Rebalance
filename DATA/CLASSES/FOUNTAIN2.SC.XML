@@ -1,9 +1,0 @@
-<class id="Fountain2" cpp_class="CVXItemHolder" parent="BaseWell" entity="MapObjects/Well 4/Well 4.ent.xml">
-
-	<properties edittree_pos="Structures/Item holders/Fountain 2"/>
-	<properties icon="gameres/icons/fountain2.bmp"/>
-	<properties radius="30" selection_radius="30"/>
-	<properties help="/contents/buildings/Fountain 2"/>
-	<properties display_name="Fountain"/>
-
-</class>

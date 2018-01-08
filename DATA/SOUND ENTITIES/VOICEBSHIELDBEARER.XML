@@ -1,9 +1,0 @@
-<entity description="BShieldBearer Voice" priority="UnitOrder" type="UnitOrder">
-   <files>
-      <sound file="CurrentLang/voices/BShieldBearer/1.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BShieldBearer/2.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BShieldBearer/3.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BShieldBearer/4.wav" frequency="20"/>
-      <sound file="CurrentLang/voices/BShieldBearer/5.wav" frequency="20"/>
-   </files>
-</entity>
