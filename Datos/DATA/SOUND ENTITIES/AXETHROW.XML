@@ -1,0 +1,9 @@
+<entity description="Axe Throw" priority="UnitFight" type="UnitFight">
+   <files>
+      <sound file="Sounds/fight/Axe_throwing/Axe_throwing_1.wav" frequency="33"/>
+      <sound file="Sounds/fight/Axe_throwing/Axe_throwing_2.wav" frequency="33"/>
+      <sound file="Sounds/fight/Axe_throwing/Axe_throwing_3.wav" frequency="33"/>
+      
+      
+   </files>
+</entity>

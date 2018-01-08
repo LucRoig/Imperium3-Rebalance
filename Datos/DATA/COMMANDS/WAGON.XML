@@ -1,0 +1,73 @@
+<commands>
+
+<!-- WAGON COMMANDS -->
+
+<cmd name="unload" priority="5"
+	button=""
+	rollover="Unload caravan"
+	cursor="do_something"
+>
+	<src obj="Wagon"/>
+
+	<cmdtext target="Building"
+			text=""
+			default-text="Unload caravan"/>
+</cmd>
+
+<cmd name="loadgold1" priority="3"
+	method="loadgoldbig"
+	button="actions/load gold.bmp"
+	rollover="Load 1000 gold"
+	mod="no">
+
+	<src obj="Wagon"/>
+</cmd>
+
+<cmd name="loadgold2" priority="3"
+	method="loadgoldsmall"
+	button="actions/load gold.bmp"
+	rollover="Load 250 gold"
+	mod="yes">
+
+	<src obj="Wagon"/>
+</cmd>
+
+<cmd name="loadfood1" priority="3"
+	method="loadfoodbig"
+	button="Actions/load food.bmp"
+	rollover="Load 1000 food"
+	mod="no">
+
+	<src obj="Wagon"/>
+</cmd>
+
+<cmd name="loadfood2" priority="3"
+	method="loadfoodsmall"
+	button="actions/load food.bmp"
+	rollover="Load 250 food"
+	mod="yes">
+
+	<src obj="Wagon"/>
+</cmd>
+
+<cmd name="follow" priority="1"
+	button=""
+	key="f"
+	cursor="do_something">
+
+	<cmdtext target="Unit"
+		text=""
+		default-text="Right-click to follow this ally"/>
+</cmd>
+
+<cmd name="boardship" priority="0"
+	cursor="do_something">
+
+	<src obj="Unit"/>
+	<src obj="Trader"/>
+
+	<cmdtext target="ShipL"
+	         default-text="Right-click to board this ship"/>
+</cmd>
+
+</commands>

@@ -1,0 +1,9 @@
+<entity description="RVelit Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/RVelit/1.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/RVelit/2.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/RVelit/3.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/RVelit/4.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/RVelit/5.wav" frequency="20"/>
+   </files>
+</entity>

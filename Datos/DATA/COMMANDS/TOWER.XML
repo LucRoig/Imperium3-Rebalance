@@ -1,0 +1,32 @@
+<commands>
+
+<!-- TOWER COMMANDS -->
+
+<cmd name="repair tower" priority="1"
+	method="repair"
+	button="actions/repair.bmp"
+	key="r"
+	queueicon="gameres/icons/upgrades/repair.bmp"
+	groupverifier="data/subai/verify_cmdcost_building.vs"
+	rollover="Repair"
+	costgold = "250"
+	costfood = "0"
+	execdelay = "60000">
+	<src obj="Tower"/>
+</cmd>
+
+<cmd name="Tower Attack" priority="0" 
+     method="attack" 
+     button="Actions/Attack.bmp" 
+     key="a"
+ 	 cursor="attack"
+     rollover="Attack">
+
+     <cmdtext target="Unit"
+	      text="Click to attack this enemy"
+	      default-text="Right-click to attack this enemy"/>
+
+     <src obj="Tower"/>
+</cmd>
+
+</commands>

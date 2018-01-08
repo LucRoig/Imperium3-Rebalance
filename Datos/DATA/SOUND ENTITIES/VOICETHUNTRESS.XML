@@ -1,0 +1,9 @@
+<entity description="THuntress Voice" priority="UnitOrder" type="UnitOrder">
+	<files>
+		<sound file="CurrentLang/voices/THuntress/1.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/THuntress/2.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/THuntress/3.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/THuntress/4.wav" frequency="20"/>
+		<sound file="CurrentLang/voices/THuntress/5.wav" frequency="20"/>
+	</files>
+</entity>

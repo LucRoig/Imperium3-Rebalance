@@ -1,0 +1,9 @@
+<entity description="House Select" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="Sounds/selection/House/House_Ambient_1.wav" frequency="25"/>
+      <sound file="Sounds/selection/House/House_Ambient_2.wav" frequency="25"/>
+      <sound file="Sounds/selection/House/House_Ambient_3.wav" frequency="25"/>
+      <sound file="Sounds/selection/House/House_Ambient_4.wav" frequency="25"/>
+      
+   </files>
+</entity>

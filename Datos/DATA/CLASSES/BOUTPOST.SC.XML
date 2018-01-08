@@ -1,0 +1,24 @@
+<class id="BOutpost" cpp_class="CVXOutpost" parent="Outpost" entity="Buildings/BOutpost/BOutpost.ent.xml">
+
+	<properties race="Britain"/>
+	<properties maxhealth="10000"/>
+	<properties icon="gameres/icons/BOutpost.bmp"/>
+	<properties display_name="Military post"/>
+	<properties radius="345" selection_radius="350"/>
+	<properties edittree_pos="Structures/Outposts/Military post (Britain)"/>
+	<properties help="/contents/buildings/BOutpost"/>
+	<properties description="Gradually increases the experience of all warriors inside the outpost until they reach level 8"/>
+	<properties
+		range = "1000"
+		settlement_food="2000"
+		settlement_gold="0"
+	    defender_cls_1  = "BHighlander"	
+	    defenders_max_1 = "10"
+	    defenders_out_1 = "6"
+	    start_level_1   = "1"
+	    end_level_1     = "12"   
+	/>
+
+	<behavior script="data/subai/ioutpost_behavior.vs"/>
+
+</class>

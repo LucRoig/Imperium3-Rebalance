@@ -1,0 +1,9 @@
+<entity description="CNumidianRider Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/CNumidianRider/Forward, camel!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CNumidianRider/No gold is worth this.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CNumidianRider/Yallah,Yallah!.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CNumidianRider/I'm doing this for money.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CNumidianRider/That would cost you double!.wav" frequency="20"/>
+   </files>
+</entity>

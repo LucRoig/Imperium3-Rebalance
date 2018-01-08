@@ -1,0 +1,34 @@
+<entity description="Horse walk" priority="UnitWalk" type="UnitWalk">
+   <files>
+      <sound file="Sounds/Walk/Horse_army_1.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_2.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_3.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_4.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_5.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_6.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_7.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_8.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_9.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_10.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_11.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_12.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_13.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_14.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_15.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_16.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_17.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_18.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_19.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_20.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_21.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_22.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_23.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_24.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_25.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_26.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_27.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_28.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_29.wav" frequency="7"/>
+      <sound file="Sounds/Walk/Horse_army_30.wav" frequency="7"/>
+   </files>
+</entity>

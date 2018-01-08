@@ -1,0 +1,15 @@
+<class id="EGuardian" cpp_class="CVXUnit" parent="Melee" entity="Units/EGuardian/EGuardian.ent.xml">
+
+	<properties race="Egypt"/>
+	<properties maxhealth="320"/>
+	<properties damage="30" armor_slash="8" armor_pierce="8"/>
+	<properties speed="80"/>
+	<properties unit_specials="Deflection, Ferocity"/>
+
+	<properties icon="gameres/icons/EGuardian.bmp"/>
+	<properties display_name="Guardian" display_name_plural="Guardians"/>
+	<properties help="contents/units/EGuardian"/>
+	<properties edittree_pos="Units/Egypt/Guardian"/>
+	<sounds command="data/sound entities/VoiceEGuardian.xml"/>
+
+</class>

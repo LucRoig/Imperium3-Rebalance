@@ -1,0 +1,19 @@
+<class id="BaseBarracks" cpp_class="CVXBarrack" parent="BaseTownBuilding"
+	entity="Buildings/RBarracks/RBarracks_as.ent.xml"
+	entity_winter="Buildings/RBarracks/RBarracks_w.ent.xml">
+
+	<behavior script="data/subai/arena_behavior.vs"/>
+
+	<properties radius="245" selection_radius="250"/>
+
+	<method sig="idle" vs="data/subai/barrack_idle.vs"/>
+	<method sig="train" vs="data/subai/barrack_train.vs"/>
+	<method sig="trainex" vs="data/subai/barrack_train_ex.vs"/>
+	
+	<properties interface="thumb,building,queue"/>
+
+	<properties auto_repair="no"/>
+
+	<sounds select="BarracksSelect"/>
+	
+</class>

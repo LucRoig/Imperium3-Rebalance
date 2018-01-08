@@ -1,0 +1,9 @@
+<entity description="CJavelinThrower Voice" priority="UnitOrder" type="UnitOrder">
+   <files>
+      <sound file="CurrentLang/voices/CJavelinThrower/Anything for money.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CJavelinThrower/How much gold for this.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CJavelinThrower/Where's my pay.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CJavelinThrower/Buy me another spear.wav" frequency="20"/>
+      <sound file="CurrentLang/voices/CJavelinThrower/Want some shish kebab.wav" frequency="20"/>
+   </files>
+</entity>
