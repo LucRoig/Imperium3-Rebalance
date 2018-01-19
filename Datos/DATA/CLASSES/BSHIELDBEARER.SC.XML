@@ -5,6 +5,8 @@
 	<properties damage="20" armor_slash="10" armor_pierce="10"/>
 	<properties speed="80"/>
 	<properties unit_specials="Defense skill, Combat skill"/>
+	
+	<properties formation_priority="2500"/>
 
 	<properties icon="gameres/icons/BShieldBearer.bmp"/>
 	<properties display_name="Shield Bearer" display_name_plural="Shield Bearers"/>

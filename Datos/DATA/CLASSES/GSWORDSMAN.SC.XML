@@ -6,7 +6,7 @@
 	<properties speed="80"/>
 	<properties unit_specials="Penetration"/>
 
-	<properties formation_priority="1200"/>
+	<properties formation_priority="1500"/>
 	<properties formation_radius="26"/>
 
 	<properties icon="gameres/icons/GSwordsman.bmp"/>

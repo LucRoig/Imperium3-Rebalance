@@ -5,6 +5,8 @@
 	<properties damage="50" armor_slash="6" armor_pierce="6"/>
 	<properties speed="80"/>
 	<properties unit_specials="Deflection"/>
+	
+	<properties formation_priority="1500"/>
 
 	<properties icon="gameres/icons/BHighlander.bmp"/>
 	<properties display_name="Highlander" display_name_plural="Highlanders"/>

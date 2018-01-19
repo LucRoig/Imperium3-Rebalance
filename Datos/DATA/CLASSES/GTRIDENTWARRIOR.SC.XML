@@ -5,6 +5,8 @@
 	<properties damage="80" armor_slash="14" armor_pierce="14"/>
 	<properties speed="80"/>
 	<properties unit_specials="Triumph"/>
+	
+	<properties formation_priority="3000"/>
 
 	<properties icon="gameres/icons/GTridentWarrior.bmp"/>
 	<properties display_name="Trident Warrior" display_name_plural="Trident Warriors"/>

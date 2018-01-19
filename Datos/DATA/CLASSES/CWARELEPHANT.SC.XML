@@ -10,6 +10,7 @@
 
 	<properties max_food="100"/>
 
+	<properties formation_priority="3000"/>
 	<properties formation_radius="50"/>
 	<properties radius="30" selection_radius="30"/>
 	
